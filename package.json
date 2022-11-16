@@ -1,0 +1,17 @@
+{
+  "name": "carpooling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "lui2mi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "jsts": "^1.5.0",
+    "moment-timezone": "^0.5.21"
+  }
+}
